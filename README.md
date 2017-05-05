@@ -1,4 +1,4 @@
-[笔记](https://github.com/fengyanglei/fengyanglei.github.io/edit/master/home.md)
+## [笔记](https://github.com/fengyanglei/fengyanglei.github.io/edit/master/home.md)
 
 
 ## Welcome to GitHub Pages
